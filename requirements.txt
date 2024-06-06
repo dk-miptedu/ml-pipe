@@ -1,0 +1,8 @@
+plotly
+pandas
+matplotlib
+numpy
+huggingface_hub
+ipywidgets
+sklearn
+#dask[complete]
