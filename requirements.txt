@@ -4,5 +4,5 @@ matplotlib
 numpy
 huggingface_hub
 ipywidgets
-sklearn
+scikit-learn
 #dask[complete]
