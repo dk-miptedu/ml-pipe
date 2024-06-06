@@ -2,6 +2,7 @@ image: gitpod/workspace-full
 tasks:
   - name: startup
     init: pip install -r requirements.txt
+    command: gp open quickstart-demo.ipynb
 
 
 vscode:
