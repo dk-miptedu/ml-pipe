@@ -6,4 +6,6 @@ huggingface_hub
 ipywidgets
 scikit-learn
 seaborn
+scikit-plot
+scipy==1.11.4
 #dask[complete]
