@@ -1,11 +1,11 @@
 plotly
 pandas
-matplotlib
+matplotlib>=1.4.0
 numpy
 huggingface_hub
 ipywidgets
-scikit-learn
+scikit-learn>=1.1.0
 seaborn
 scikit-plot
-scipy==1.11.4
+scipy<1.12
 #dask[complete]
